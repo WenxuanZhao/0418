@@ -1,0 +1,14 @@
+F:\mybook\VB\VB2010\ch6\整除與不整除\整除與不整除\bin\Debug\整除與不整除.exe
+F:\mybook\VB\VB2010\ch6\整除與不整除\整除與不整除\bin\Debug\整除與不整除.pdb
+F:\mybook\VB\VB2010\ch6\整除與不整除\整除與不整除\bin\Debug\整除與不整除.xml
+F:\mybook\VB\VB2010\ch6\整除與不整除\整除與不整除\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\mybook\VB\VB2010\ch6\整除與不整除\整除與不整除\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\mybook\VB\VB2010\ch6\整除與不整除\整除與不整除\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\mybook\VB\VB2010\ch6\整除與不整除\整除與不整除\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\mybook\VB\VB2010\ch6\整除與不整除\整除與不整除\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\mybook\VB\VB2010\ch6\整除與不整除\整除與不整除\obj\x86\Debug\整除與不整除.exe
+F:\mybook\VB\VB2010\ch6\整除與不整除\整除與不整除\obj\x86\Debug\整除與不整除.xml
+F:\mybook\VB\VB2010\ch6\整除與不整除\整除與不整除\obj\x86\Debug\整除與不整除.pdb
+G:\mybook\VB\VB2010\ch6\ex-整除與不整除\整除與不整除\obj\x86\Debug\整除與不整除.exe
+G:\mybook\VB\VB2010\ch6\ex-整除與不整除\整除與不整除\obj\x86\Debug\整除與不整除.xml
+G:\mybook\VB\VB2010\ch6\ex-整除與不整除\整除與不整除\obj\x86\Debug\整除與不整除.pdb

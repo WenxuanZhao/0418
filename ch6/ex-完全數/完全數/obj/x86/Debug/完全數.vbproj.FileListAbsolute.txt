@@ -1,0 +1,11 @@
+H:\mybook\VB\VB2010\ch6\完全數\完全數\bin\Debug\完全數.exe
+H:\mybook\VB\VB2010\ch6\完全數\完全數\bin\Debug\完全數.pdb
+H:\mybook\VB\VB2010\ch6\完全數\完全數\bin\Debug\完全數.xml
+H:\mybook\VB\VB2010\ch6\完全數\完全數\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\mybook\VB\VB2010\ch6\完全數\完全數\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\mybook\VB\VB2010\ch6\完全數\完全數\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\mybook\VB\VB2010\ch6\完全數\完全數\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\mybook\VB\VB2010\ch6\完全數\完全數\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\mybook\VB\VB2010\ch6\完全數\完全數\obj\x86\Debug\完全數.exe
+H:\mybook\VB\VB2010\ch6\完全數\完全數\obj\x86\Debug\完全數.xml
+H:\mybook\VB\VB2010\ch6\完全數\完全數\obj\x86\Debug\完全數.pdb
